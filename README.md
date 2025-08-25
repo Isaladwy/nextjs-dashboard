@@ -1,5 +1,8 @@
 # Next.js Dashboard App
 
+Email: user@nextmail.com
+Password: 123456
+
 This project is a feature-rich dashboard application built with [Next.js](https://nextjs.org/) (App Router), [React](https://react.dev/), [Tailwind CSS](https://tailwindcss.com/), and [PostgreSQL](https://www.postgresql.org/). It is designed as a learning resource and starter template for building modern, full-stack web applications.
 
 ## Features
